@@ -30,6 +30,8 @@ Each report is organized in its own folder and includes:
 
 - Mr. Robot – Target: 10.114.141.113 – Date: 26 June 2026 – Result: Full compromise (root)
 
+| [Break Out The Cage](./Break-Out-The-Cage/) | 10.112.134.156 | 29 June 2026 | Full compromise (root) |
+
 > More reports will be added as I complete new machines and assessments.
 
 ---
